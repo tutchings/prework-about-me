@@ -1,5 +1,10 @@
-## About Me 
+# About Me 
 
-* This website is a static HTML website using semantic tags and minimal CSS.
+## Deployed Project
+
+* [`About Me Website`](https://tutchings.github.io/prework-about-me/)
+
+## Project Description
+
+* This website is a static HTML website using semantic tags.
 * It is a basic about me page for UNC Coding Bootcamp Prework.
-* It is currently hosted on Github Pages.
